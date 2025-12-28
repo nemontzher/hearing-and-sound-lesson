@@ -1,0 +1,31 @@
+# Education template
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore environment files
+.env
+.env.local
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore log files
+*.log
+
+# Ignore output files (if any)
+*.pdf
+*.docx
+*.pptx
+
+# Ignore temporary files
+*.tmp
+*.temp
